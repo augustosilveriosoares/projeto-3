@@ -1,0 +1,75 @@
+.bg-yellow{
+    background-color: rgb(253, 241, 226);
+}
+
+h1, h2, h3 {
+    font-family: 'Rammetto One', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Rammetto One', cursive;
+    color: bisque;
+}
+.navbar-brand:hover {
+  
+    color: rgb(238, 179, 108);
+}
+
+.bg-beer{
+    background-color: rgb(15, 153, 15);
+}
+
+.bg-beer-light{
+    background-color: rgb(229, 249, 218);
+}
+
+.color-beer{
+    color: rgb(15, 153, 15);
+}
+
+.btn-beer {
+    background-color: rgb(15, 153, 15);
+    color: bisque;
+    font-weight: bold;
+}
+.btn-beer:hover{
+    background-color: rgb(11, 70, 11);
+    color: bisque;
+    font-weight: bold;
+    
+}
+
+.list-group-item.active {
+    background-color:  rgb(15, 153, 15);
+    font-weight: bold;
+
+}
+
+.navbar-nav .nav-link.active{
+    color: bisque;
+}
+.nav-link{
+    color: bisque;
+    font-weight: bold;
+
+}
+.nav-link:hover{
+    color: rgb(246, 214, 38);
+    font-weight: bold;
+
+}
+
+.navbar-toggler-icon{
+    background-color: bisque;
+
+}
+.carousel .item {
+    height: 300px;
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+  }
